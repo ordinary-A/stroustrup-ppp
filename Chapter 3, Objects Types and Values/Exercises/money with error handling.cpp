@@ -9,18 +9,18 @@ int main()
     //input block
     cout << "how many pennies do you have? ";
     if (!(cin >> pennies) || pennies < 0) { cout << "Error: invalid input.\n"; return 1; }
-    cin >> pennies;
+    
     cout << "how many nickels do you have? ";
     if (!(cin >> nickels) || nickels < 0) { cout << "Error: invalid input.\n"; return 1; }
-    cin >> nickels; 
+    
     cout << "how many dimes do you have? ";
     if (!(cin >> dimes) || dimes < 0) { cout << "Error: invalid input.\n"; return 1; }
-    cin >> dimes;
+    
     cout << "how many quarters do you have? ";
     if (!(cin >> quarters) || quarters < 0) { cout << "Error: invalid input.\n"; return 1; }
     cin >> quarters;
     cout << "how many dollars do you have? ";
-    cin >> dollars;
+    
     if (!(cin >> dollars) || dollars < 0) { cout << "Error: invalid input.\n"; return 1; }
 
     //output block
