@@ -18,7 +18,7 @@ int main()
     
     cout << "how many quarters do you have? ";
     if (!(cin >> quarters) || quarters < 0) { cout << "Error: invalid input.\n"; return 1; }
-    cin >> quarters;
+   
     cout << "how many dollars do you have? ";
     
     if (!(cin >> dollars) || dollars < 0) { cout << "Error: invalid input.\n"; return 1; }
