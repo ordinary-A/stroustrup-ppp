@@ -20,6 +20,6 @@ Also, keep in mind that std_lib_facilities.h is not a part of "default" C++ per 
 
 I haven't read the book fully yet, so I don't know if this is addressed properly, although I'm 98% sure it is.
 
-note that i am not currently adding more to this repo because i have switched to the more modern third edition of the book. i will be accepting functional pull requests.
+note that i am not currently adding more to this repo because i have switched to the more modern third edition of the book, so i thought that it would be better and more organized to start a new repo, i will be accepting functional pull requests though.
 
 -Alaadin Sameh
